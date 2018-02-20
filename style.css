@@ -104,13 +104,20 @@ body{
 	border-bottom-left-radius: 10px;
 }
 
+#container{
+	color: #fff;
+	font-size: 22px;
+	margin: 0 auto;
+	position:relative;
+}
+
 .menu li {
     display: inline-block;
 }
 
 .menu a {
     color: #b3a493;
-    font-size: 18px;
+    font-size: 22px;
     margin: 0 12px;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -132,7 +139,8 @@ body{
     padding: 15px;
     width: 960px;
     height: auto;
-    background-color: #fff;
+    background-color: #000;
+    color: #fff;
     opacity: 0.6;
     font-size: 24px;
 }
