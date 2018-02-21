@@ -136,3 +136,33 @@ body{
     opacity: 0.6;
     font-size: 24px;
 }
+
+
+
+
+/*****************************
+********** PRICES-TYLE *********
+****************************/
+
+.price h1 {
+    border-bottom: 2px dotted gray;
+}
+
+.price {
+    margin-top: 80px;
+    border-radius: 10px;
+}
+
+table {
+    width: 90%;
+}
+
+table .t1 {
+    background-color: white;
+}
+
+table .t2 {
+    background-color: #e5e3dc;
+}
+
+
